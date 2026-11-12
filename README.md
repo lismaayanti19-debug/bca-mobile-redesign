@@ -1,7 +1,8 @@
-# BCA mobile — Redesign · Flutter
+# Lismayanti mobile — Redesign Aplikasi Mobile Banking (Flutter)
 
-> Konsep desain ulang halaman utama aplikasi **BCA mobile** menggunakan Flutter.
-> Dibuat sebagai studi UI/UX dan portofolio — bukan aplikasi resmi BCA.
+> Aplikasi demo **Lismayanti mobile**: konsep desain ulang halaman utama sebuah
+> aplikasi mobile banking, dibangun dengan Flutter. Konsep visualnya terinspirasi
+> BCA mobile, bukan aplikasi resmi BCA.
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.35-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.9-0175C2?logo=dart&logoColor=white)
@@ -13,15 +14,16 @@ Repositori: [github.com/lismaayanti19-debug/bca-mobile-redesign](https://github.
 
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="300" alt="Halaman utama BCA mobile redesign" />
+  <img src="docs/screenshots/home.png" width="300" alt="Halaman utama Lismayanti mobile" />
 </p>
 
 ## ✨ Tentang redesign
 
-Halaman utama BCA mobile dirancang ulang dengan pendekatan **modern minimal**:
+Halaman utama aplikasi dirancang ulang dengan pendekatan **modern minimal**:
 identitas biru BCA dipertahankan, tetapi hierarki informasi dibuat lebih jelas,
 kartu saldo dibuat lebih premium, dan aksi-aksi utama ditempatkan dalam jangkauan
-jempol. Semua data yang tampil adalah data dummy.
+jempol. Nama aplikasi **Lismayanti mobile** dipakai sebagai personal branding,
+dan semua data yang tampil (nasabah, saldo, promo, transaksi) adalah data dummy.
 
 **Yang berubah dari tampilan konvensional:**
 
@@ -160,7 +162,8 @@ kembali lewat **Settings → Pages → Build and deployment → Source: GitHub A
 
 Project ini adalah **konsep desain ulang independen** untuk keperluan edukasi dan
 portofolio. Tidak berafiliasi dengan, disponsori oleh, atau diakui oleh
-PT Bank Central Asia Tbk. Nama, logo, dan merek BCA adalah milik pemiliknya
+PT Bank Central Asia Tbk. Nama "Lismayanti mobile" dipakai sebagai personal
+branding pemilik project. Nama, logo, dan merek BCA adalah milik pemiliknya
 masing-masing. Seluruh nominal, nama nasabah, promo, dan transaksi adalah data
 fiktif. Jangan menggunakan project ini untuk transaksi keuangan nyata.
 

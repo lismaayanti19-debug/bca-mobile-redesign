@@ -1,5 +1,5 @@
 name: bca_mobile_redesign
-description: "A modern, concept redesign of the BCA mobile banking home screen built with Flutter."
+description: "Lismayanti mobile - a modern concept redesign of a mobile banking home screen built with Flutter."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

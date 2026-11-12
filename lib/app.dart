@@ -9,7 +9,7 @@ class BcaMobileApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'BCA mobile — Redesign',
+      title: 'Lismayanti mobile',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       home: const AppShell(),

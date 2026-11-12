@@ -8,8 +8,8 @@ import 'models/transaction.dart';
 
 /// Hard-coded demo content for the redesign.
 abstract final class SampleData {
-  static const String customerName = 'Aditya Ramadhan';
-  static const String customerInitials = 'AR';
+  static const String customerName = 'Lismayanti';
+  static const String customerInitials = 'LA';
   static const String accountNumber = '•••• 8831';
   static const double balance = 12500000;
   static const double monthlySpending = 4250000;
@@ -47,7 +47,7 @@ abstract final class SampleData {
       colors: [Color(0xFF0D5F5B), Color(0xFF14A085)],
     ),
     Promo(
-      tag: 'BCA PRIORITAS',
+      tag: 'PRIORITAS',
       title: 'Wealth insight untukmu',
       subtitle: 'Konsultasi investasi gratis 1-on-1',
       icon: Icons.auto_graph_rounded,
@@ -114,7 +114,7 @@ abstract final class SampleData {
       accent: Color(0xFFDC2626),
     ),
     BankTransaction(
-      title: 'Cashback BCA',
+      title: 'Cashback Spesial',
       subtitle: 'Reward · 31 Okt, 16.20',
       amount: 125000,
       kind: TransactionKind.income,

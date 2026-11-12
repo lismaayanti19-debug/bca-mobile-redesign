@@ -1,11 +1,11 @@
 {
-    "name": "BCA mobile Redesign",
-    "short_name": "BCA mobile",
+    "name": "Lismayanti mobile",
+    "short_name": "Lismayanti",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#F3F6FA",
     "theme_color": "#0060AF",
-    "description": "Konsep desain ulang halaman utama BCA mobile dengan Flutter.",
+    "description": "Lismayanti mobile - konsep desain ulang aplikasi mobile banking dengan Flutter.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

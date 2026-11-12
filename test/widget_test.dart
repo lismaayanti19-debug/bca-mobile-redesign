@@ -16,7 +16,7 @@ void main() {
   testWidgets('home shows the redesigned sections', (tester) async {
     await pumpApp(tester);
 
-    expect(find.text('Aditya Ramadhan'), findsOneWidget);
+    expect(find.text('Lismayanti'), findsOneWidget);
     expect(find.text('Layanan Cepat'), findsOneWidget);
     expect(find.text('Promo & Penawaran'), findsOneWidget);
     expect(find.text('Rp 12.500.000'), findsOneWidget);
