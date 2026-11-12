@@ -9,6 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-0E9F6E)
 
 Repositori: [github.com/lismaayanti19-debug/bca-mobile-redesign](https://github.com/lismaayanti19-debug/bca-mobile-redesign)
+· Demo web: [lismaayanti19-debug.github.io/bca-mobile-redesign](https://lismaayanti19-debug.github.io/bca-mobile-redesign/)
 
 
 <p align="center">
@@ -150,9 +151,10 @@ lib/
 - `.github/workflows/ci.yml` — format check, analyze, dan test di setiap push/PR.
 - `.github/workflows/deploy-web.yml` — build web dan deploy ke GitHub Pages.
 
-Untuk mengaktifkan demo: buka **Settings → Pages → Build and deployment →
-Source: GitHub Actions**, lalu jalankan workflow. Demo akan tersedia di
-https://lismaayanti19-debug.github.io/bca-mobile-redesign/
+Demo web: https://lismaayanti19-debug.github.io/bca-mobile-redesign/
+
+Deploy berjalan otomatis setiap push ke `main`. Jika Pages dinonaktifkan, aktifkan
+kembali lewat **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 
 ## ⚠️ Disclaimer
 
